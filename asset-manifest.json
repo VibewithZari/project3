@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/project3/static/js/main.c42d6fd8.js",
+    "static/js/74.34dff0ef.js": "/project3/static/js/74.34dff0ef.js",
+    "static/media/home.jpeg": "/project3/static/media/home.a6e3a90d57bfd1a6a9ea.jpeg",
+    "favicon.ico": "/project3/favicon.ico",
+    "static/media/paris.jpeg": "/project3/static/media/paris.434606dfb2ca02e5adb6.jpeg",
+    "static/media/mathematics.jpeg": "/project3/static/media/mathematics.4667dfbe938f4f4a35d0.jpeg",
+    "index.html": "/project3/index.html",
+    "static/media/exercise.jpg": "/project3/static/media/exercise.f43c2963f9d5ed3f5e6e.jpg",
+    "static/media/ocean.jpg": "/project3/static/media/ocean.79047bf47958570aa5dd.jpg",
+    "favicon-32.png": "/project3/favicon-32.png",
+    "favicon-16.png": "/project3/favicon-16.png",
+    "serve.json": "/project3/serve.json",
+    "manifest.json": "/project3/manifest.json",
+    "main.c42d6fd8.js.map": "/project3/static/js/main.c42d6fd8.js.map",
+    "74.34dff0ef.js.map": "/project3/static/js/74.34dff0ef.js.map"
+  },
+  "entrypoints": [
+    "static/js/74.34dff0ef.js",
+    "static/js/main.c42d6fd8.js"
+  ]
+}
